@@ -1,3 +1,11 @@
-## 0.0.1
+## 0.0.2 - Example added
 
-* TODO: Describe initial release.
+## 0.0.1 - Basic functionality.
+
+Production ready, but I want to add more features soon, Added the following animations:
+
+- FadeIn
+- SlideUp
+- SlideDown
+- SlideLeft
+- SlideRight

@@ -1,7 +1,7 @@
 name: page_transition_effects
 description: Beautiful animations for Page Transition. Supports PushReplacement.
-version: 0.0.1
-homepage: https://github.com/xavit
+version: 0.0.2
+homepage: https://github.com/xavit/page_transition_effects
 
 environment:
   sdk: ">=3.1.5 <4.0.0"
